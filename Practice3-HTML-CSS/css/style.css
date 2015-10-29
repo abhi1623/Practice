@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+form ul {
+  margin-left: 0;
+}
+
+form li {
+  list-style: none;
+  padding-bottom: 10px;
+}
+
+label {
+  display: block;
+}
+
+textarea {
+  width: 300px;
+  height: 150px;
+}

@@ -1,0 +1,31 @@
+#wrap {
+  min-width: 600px;
+  width: 80%;
+  margin:auto;
+  background-color: green;
+}
+
+#content, aside {
+  height:500px;
+}
+
+#content {
+  background-color: red;
+  width: 80%;
+  float:left;
+}
+
+aside {
+  background-color: brown;
+  float: left;
+  width: 20%;
+}
+
+aside ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+footer {
+  clear: both;
+}
